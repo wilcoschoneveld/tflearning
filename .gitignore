@@ -6,3 +6,9 @@
 
 # jetbrains
 .idea
+
+# jupyter
+.ipynb_checkpoints
+
+# project specific
+.data
